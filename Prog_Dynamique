@@ -1,4 +1,10 @@
-Hello World!
-
-
-Hello world 2 
+/*
+ * Prog_Dynamique.c
+ * 
+ * Sac de valeur maximum
+ * Sac de contenance C 
+ * n objets 0,1,...,n-1
+ * Pr tt i, ti et vi st la taille et la valeur de l'objet i
+ * Calculer un sous ensemble d'objets de taille <= C et de valeur maximale
+ *
+ */
